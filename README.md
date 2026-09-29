@@ -345,9 +345,9 @@ Example:
 
 ## 👨‍💻 Author
 
-**Akash Pawar**
+**Prathamesh Jadhav**
 
-Software Developer
+Software Engineer
 
 ### Project
 
