@@ -1,5 +1,5 @@
 # ============================================
-# CodeGuard AI - Git Ignore
+# RoslynSense AI - Git Ignore
 # ============================================
 
 # ---------- .NET / Visual Studio ----------
@@ -61,5 +61,5 @@ TestResults/
 *.cache
 *.pdb
 
-# CodeGuard generated workspace data
+# RoslynSense generated workspace data
 **/App_Data/Workspaces/

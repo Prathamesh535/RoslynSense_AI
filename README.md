@@ -1,6 +1,6 @@
-# 🛡️ CodeGuard AI
+# 🛡️ RoslynSense AI
 
-CodeGuard AI is an AI-powered code review and analysis tool built to help developers understand code issues, review diagnostics, generate fixes, and apply suggested changes directly inside a Monaco-based editor.
+RoslynSense AI is an AI-powered code review and analysis tool built to help developers understand code issues, review diagnostics, generate fixes, and apply suggested changes directly inside a Monaco-based editor.
 
 The project combines **ASP.NET Core Web API**, **Roslyn static analysis**, **React**, **Monaco Editor**, and AI provider integration.
 
@@ -36,7 +36,7 @@ The project combines **ASP.NET Core Web API**, **Roslyn static analysis**, **Rea
 
 ### 🧠 AI Provider Architecture
 
-CodeGuard AI currently supports:
+RoslynSense AI currently supports:
 
 1. **OpenRouter**
 2. **Google Gemini**
@@ -50,7 +50,7 @@ The current default AI configuration uses **OpenRouter with Qwen3-Coder**. Users
 ## 🏗️ Architecture
 
 ```text
-                         CodeGuard AI
+                         RoslynSense AI
                               │
                 ┌─────────────┴─────────────┐
                 │                           │
@@ -165,10 +165,10 @@ Re-analysis
 The repository contains both frontend and backend projects:
 
 ```text
-CodeGuard-AI/
+RoslynSense-AI/
 │
 ├── backend/
-│   ├── CodeGuard.API.sln
+│   ├── RoslynSense.API.sln
 │   └── ...
 │
 ├── frontend/
@@ -277,7 +277,7 @@ If an API key has ever been committed to a public repository, revoke it and gene
 
 ## 📊 Current V1 Scope
 
-CodeGuard AI V1 focuses on the complete developer workflow:
+RoslynSense AI V1 focuses on the complete developer workflow:
 
 - Source code input
 - File upload
@@ -334,7 +334,7 @@ screenshots/
 Example:
 
 ```markdown
-![CodeGuard AI Dashboard](screenshots/dashboard.png)
+![RoslynSense AI Dashboard](screenshots/dashboard.png)
 
 ![AI Settings](screenshots/ai-settings.png)
 
@@ -351,13 +351,13 @@ Software Engineer
 
 ### Project
 
-**CodeGuard AI — AI-Powered Code Review and Analysis Tool**
+**RoslynSense AI — AI-Powered Code Review and Analysis Tool**
 
 ---
 
 ## ⭐ Project Goal
 
-CodeGuard AI was created as a practical developer tool that combines traditional static analysis with AI-assisted development.
+RoslynSense AI was created as a practical developer tool that combines traditional static analysis with AI-assisted development.
 
 The goal is to help developers move from:
 
