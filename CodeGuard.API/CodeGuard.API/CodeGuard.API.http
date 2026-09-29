@@ -1,0 +1,6 @@
+@CodeGuard.API_HostAddress = http://localhost:5003
+
+GET {{CodeGuard.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
