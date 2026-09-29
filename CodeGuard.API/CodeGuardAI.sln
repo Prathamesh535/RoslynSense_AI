@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGuard.API", "CodeGuard.API\CodeGuard.API.csproj", "{4A9EC93E-0DB5-47A7-9AB0-5159421969AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A9EC93E-0DB5-47A7-9AB0-5159421969AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9EC93E-0DB5-47A7-9AB0-5159421969AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9EC93E-0DB5-47A7-9AB0-5159421969AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9EC93E-0DB5-47A7-9AB0-5159421969AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7976D36-2AB9-40B2-A95D-924360B37790}
+	EndGlobalSection
+EndGlobal
